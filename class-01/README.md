@@ -8,7 +8,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
 ## Daily Plan
 
-- Overview of 301
+- Welcome! Orientation slides & overview of course
 - Review of prework
 - Discussion of `create-react-app`
 - Discussion of component based architeture
@@ -18,7 +18,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
 ## Learning Objectives
 
-As as result of completing Lecture 1 of Code 301, students will: 
+As as result of completing Lecture 1 of Code 301, students will:
 
 - Describe and Define:
   - Component Based Architeture
@@ -28,9 +28,8 @@ As as result of completing Lecture 1 of Code 301, students will:
   - arrow functions
 - Gain an understanding of scope with arrow functions
 - Gain an understanding of context, scope, "this", and the "new" keyword
-- Gain an understanding of the core concepts of React and how to create a basic React application
 - Be able to create a basic React application using `create-react-app`
-- Understand component based architecture and be able to build a simple component based React appliction
+- Understand component based architecture and be able to build a simple component based React application
 
 ## Notes
 
@@ -41,6 +40,7 @@ As as result of completing Lecture 1 of Code 301, students will:
 1. What is the difference between an arrow function and a function declaration?
 
 1. Difference between constructor function and a class:
+
   ```javaScript
   // constructor
   function Cat(name) {
@@ -72,6 +72,7 @@ As as result of completing Lecture 1 of Code 301, students will:
   ```
 
 1. Turning a function declaration into an arrow function:
+
   ```javaScript
   function doSomething(name) {
     // do something
@@ -86,6 +87,7 @@ As as result of completing Lecture 1 of Code 301, students will:
   ```
 
 1. Basic React Component Structure:
+
   ```javaScript
   import React from 'react';
 
