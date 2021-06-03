@@ -1,5 +1,6 @@
 # 301 Final Exam
 
+<!--
 ## Overview
 
 The 301 final exam consists of two parts, each worth 50 points. You must score a **total** of 80 points to pass.
@@ -51,3 +52,5 @@ Create a .zip file of both directories
     `zip -r yourname.zip * --exclude \*/node_modules/\* --exclude \*.zip`
 - Open Canvas and attach that file to this assignment
 - Include any comments or notes on your test coverage, etc
+
+-->
